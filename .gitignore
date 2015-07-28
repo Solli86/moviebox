@@ -1,0 +1,28 @@
+#folders
+vendor/bundle
+public/assets/
+node_modules/
+bower_components/
+elasticsearch/
+
+############################
+### goodniceweb features ###
+############################
+.keep
+*.routes
+*.flog
+*.backup
+failures
+
+# vim service files
+*.swp
+*.swo
+tags
+.tags
+
+# sensetive ymls
+database.yml
+secrets.yml
+keys.yml
+paypal.yml
+
